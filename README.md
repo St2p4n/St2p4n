@@ -11,3 +11,7 @@ Brave Stunent on SPSMB 😎
      😄 Pronouns: HE/HIM
 
      ⚡ Fun fact: I have a hole in my chest
+
+      Languages and Tools:
+      JavaScript, HTML and CSS
+      
