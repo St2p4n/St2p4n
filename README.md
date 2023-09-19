@@ -1,13 +1,13 @@
 Brave Stunent on SPSMB 😎
 
-🌱 I’m currently learning prograning
+     🌱 I’m currently learning prograning
 
-🤔 I’m looking for help with coding in javascript
+     🤔 I’m looking for help with coding in javascript
 
-💬 Ask me about: your favorite football club
+     💬 Ask me about: your favorite football club
 
-📫 How to reach me: dracho06@gmail.com
+     📫 How to reach me: dracho06@gmail.com
 
-😄 Pronouns: HE/HIM
+     😄 Pronouns: HE/HIM
 
-⚡ Fun fact: I have a hole in my chest
+     ⚡ Fun fact: I have a hole in my chest
