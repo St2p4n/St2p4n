@@ -1,4 +1,5 @@
-Brave Stunent on SPSMB 😎
+                                                                                                                   👋 Hello! I'm Sy Rashid
+                                                                                                                       Brave Stunent on SPSMB 😎
 
      🌱 I’m currently learning prograning
 
