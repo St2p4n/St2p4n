@@ -1,4 +1,6 @@
-Brave Stunent on SPSMB 😎
+
+                                                                                                                👋 Hello! I'm Štěoán Matějka 
+                                                                                                                   Brave Stunent on SPSMB 😎
 
      🌱 I’m currently learning prograning
 
