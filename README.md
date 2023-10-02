@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **programming**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **everything🤣**
 
 - 😄 Pronouns **HE/HIM**
 <img align="right" alt="Coding" width="450" src="https://i.imgflip.com/5yauub.gif">
