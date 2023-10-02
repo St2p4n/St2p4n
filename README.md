@@ -10,7 +10,7 @@
 
 - 😄 Pronouns **HE/HIM**
 <img align="right" alt="Coding" width="450" src="https://i.imgflip.com/5yauub.gif">
-- 🤝 I’m looking for help with **coding in java/script**
+- 🤝 I’m looking for help with coding in java/script
 
 - 💬 Ask me about **your favorite football club**
 
