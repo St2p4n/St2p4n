@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **everything**
 
 - 😄 Pronouns **HE/HIM**
-<img align="right" alt="Coding" width="500" src="https://i.imgflip.com/5yauub.gif">
+<img align="right" alt="Coding" width="450" src="https://i.imgflip.com/5yauub.gif">
 - 🤝 I’m looking for help with **coding in java/script**
 
 - 💬 Ask me about **your favorite football club**
