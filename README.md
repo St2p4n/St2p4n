@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Štěpán Matějka</h1>
-<h3 align="center">Brave Stunent on SPSMB 😎</h3>
+<h3 align="center">Brave Student on SPSMB 😎</h3>
 
 
 <p align="left"> <a href="https://twitter.com/Drachoduss" target="blank"><img src="https://img.shields.io/twitter/follow/štěpán matějka?logo=twitter&style=for-the-badge" alt="štěpán matějka" /></a> </p>
