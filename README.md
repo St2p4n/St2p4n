@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/Drachoduss" target="blank"><img src="https://img.shields.io/twitter/follow/štěpán matějka?logo=twitter&style=for-the-badge" alt="štěpán matějka" /></a> </p>
 
-- 🔭 I’m currently working on **programming**
-
  <img align="right" alt="Coding" width="450" src="https://i.imgflip.com/5yauub.gif">
 
 - 🌱 I’m currently learning **everything🤣**
