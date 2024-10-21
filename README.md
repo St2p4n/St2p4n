@@ -10,7 +10,7 @@
 
 - 😄 Pronouns **HE/HIM**
 
-- 🤝 I’m looking for help with coding in java/script
+- 🤝 I’m looking for help with coding in javascript
 
 
 - 💬 Ask me about **your favorite football club**
