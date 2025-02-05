@@ -10,9 +10,6 @@
 
 - 😄 Pronouns **HE/HIM**
 
-- 🤝 I’m looking for help with coding in javascript
-
-
 - 💬 Ask me about **your favorite football club**
 
 - 📫 How to reach me **dracho06@gmail.com or ig: s._.matejka**
